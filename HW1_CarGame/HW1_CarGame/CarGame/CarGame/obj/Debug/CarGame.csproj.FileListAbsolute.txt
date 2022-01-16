@@ -1,0 +1,23 @@
+E:\all my project\Games\CarGame\CarGame\bin\Debug\CarGame.exe.config
+E:\all my project\Games\CarGame\CarGame\bin\Debug\CarGame.exe
+E:\all my project\Games\CarGame\CarGame\bin\Debug\CarGame.pdb
+E:\all my project\Games\CarGame\CarGame\obj\Debug\CarGame.Form1.resources
+E:\all my project\Games\CarGame\CarGame\obj\Debug\CarGame.Properties.Resources.resources
+E:\all my project\Games\CarGame\CarGame\obj\Debug\CarGame.csproj.GenerateResource.cache
+E:\all my project\Games\CarGame\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
+E:\all my project\Games\CarGame\CarGame\obj\Debug\CarGame.exe
+E:\all my project\Games\CarGame\CarGame\obj\Debug\CarGame.pdb
+E:\all my project\Games\CarGame\CarGame\obj\Debug\CarGame.csproj.AssemblyReference.cache
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\bin\Debug\CarGame.exe.config
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\bin\Debug\CarGame.exe
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\bin\Debug\CarGame.pdb
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.csproj.AssemblyReference.cache
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.Properties.Resources.resources
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.csproj.GenerateResource.cache
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.exe
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.pdb
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.EntryWindow.resources
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.PlayerWindow.resources
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\bin\Debug\MetroSet UI.dll
+C:\3LA\Linux\HW1_CarGame\CarGame\CarGame\obj\Debug\CarGame.TheRace.resources
